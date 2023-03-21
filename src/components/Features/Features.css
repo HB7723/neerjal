@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.feature_img {
+    width: 30%;
+}
+
+.feature {
+    padding: 0rem 0 4rem 0;
+}
+
+.feature h1 {
+    text-align: center;
+    color: #04579B;
+}
